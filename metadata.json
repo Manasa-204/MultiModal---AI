@@ -1,0 +1,11 @@
+{
+  "name": "Agentic Multi-Modal AI Tutor",
+  "description": "An academic AI tutor using Graph-Enhanced RAG, LangGraph workflows, and multi-modal Gemini capabilities for Deep Learning education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "RAG",
+    "Agentic Workflows",
+    "Multi-modal AI",
+    "Knowledge Graphs"
+  ]
+}
